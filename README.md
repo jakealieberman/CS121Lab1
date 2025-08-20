@@ -8,3 +8,14 @@ Lab 1
 * three
   *italic*
   **bold**
+
+
+Here is some C code
+I made these changes locally on my laptop
+
+```
+#include <stdio.h>
+int main(){
+  printf("Hello");
+  return 0;
+}
