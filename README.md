@@ -1,21 +1,9 @@
-# CS121Lab1
-Lab 1
+# CS121 Lab 1
+**Jacob Lieberman** 
 
-## Headline level two
+## About me
+* *What am I hoping to learn this semester?*
+	* I'm hoping to learn programming relative to OOP since the only language I know as of right now is Python.
 
-* one
-* two
-* three
-  *italic*
-  **bold**
-
-
-Here is some C code
-I made these changes locally on my laptop
-
-```
-#include <stdio.h>
-int main(){
-  printf("Hello");
-  return 0;
-}
+* *Something interesting about me*
+	* I enjoy playing the guitar and I can also juggle
